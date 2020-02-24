@@ -1,3 +1,10 @@
-###Junior Developer Resume
+### Junior Developer Resume
 
-1. My name: *Anastasiya Melnikava* 
+##### My name: *Anastasiya Melnikava* 
+Contact:	* email: anastacia.spy@gmail.com
+			* Skype: Anastacia.Spy
+			* GitHub: [link to GitHub] (https://MelnAna.github.io)
+##### Technical Skills
+**Systems:** Windows, Android
+**Databases:** Microsoft SQL Server, Access
+**Languages:** Java, SQL, HTML, CSS, JavaScript
