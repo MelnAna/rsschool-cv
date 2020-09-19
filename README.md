@@ -1,1 +1,1 @@
-https://melnana.github.io/rsschool-cv/
+https://melnana.github.io/rsschool-cv/index
