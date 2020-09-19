@@ -1,0 +1,64 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  background-color: whitesmoke;
+}
+
+.header,
+.footer {
+  color: #ffb173;
+  background: #a64a00;
+  padding: 10px;
+}
+
+h3 {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+img {
+  border: 1px solid #06276f;
+  border-radius: 50%;
+}
+
+.contacts {
+  font-style: italic;
+  display: inline-block;
+  color: #06276f;
+}
+
+.table {
+  line-height: 1.5;
+  border-collapse: collapse;
+  border-spacing: 0px;
+  text-align: left;
+}
+
+tr,
+td {
+  border: 1px solid;
+  padding: 5px 10px;
+}
+
+.skills,
+.education {
+  padding: 20px;
+  color: #06276f;
+}
+
+mark {
+  background: none;
+  border-bottom: 1px solid #078600;
+  color: #078600;
+}
+
+a {
+  text-decoration: none;
+  color: #ffb173;
+}
+
+a:hover {
+  color: #06276f;
+}
