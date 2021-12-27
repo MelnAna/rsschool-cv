@@ -3,9 +3,11 @@
 ### My name: _Anastasiya Melnikava_
 
 Contact:
-email: anastacia.spy@gmail.com
-Skype: Anastacia.Spy
-GitHub: [https://MelnAna.github.io](MelnAna)
+
+    email: anastacia.spy@gmail.com
+    Skype: Anastacia.Spy
+    GitHub: [https://MelnAna.github.io](MelnAna)
+
 =====
 
 ### Technical Skills
@@ -14,7 +16,7 @@ GitHub: [https://MelnAna.github.io](MelnAna)
 
 **Databases:** Microsoft SQL Server, Access
 
-# **Languages:** Java, SQL, HTML, CSS, JavaScript
+**Languages:** Java, SQL, HTML, CSS, JavaScript
 
 ### Education
 
@@ -22,7 +24,7 @@ GitHub: [https://MelnAna.github.io](MelnAna)
 
 **Computer Academy STEP:** "Java Development", 10/2018 - 10/2019
 
-# **RS Schools Course:** "JavaScript/Front-end. Stage 0" (in progress)
+**RS Schools Course:** "JavaScript/Front-end. Stage 0" (in progress)
 
 ### Languages
 
