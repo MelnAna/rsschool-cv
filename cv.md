@@ -8,8 +8,6 @@ Contact:
     Skype: Anastacia.Spy
     GitHub: [https://MelnAna.github.io](MelnAna)
 
-=====
-
 ### Technical Skills
 
 **Systems:** Windows, Android
@@ -29,4 +27,5 @@ Contact:
 ### Languages
 
 **Russian** - native speaker
+
 **English** - A2 (B1 in progress…)
