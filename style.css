@@ -1,0 +1,151 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  display: block;
+}
+
+body {
+  min-height: 100vh;
+  min-width: 320px;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 1.5;
+  color: rgb(60, 60, 60);
+  background-color: whitesmoke;
+}
+
+.header {
+  color: #ffb173;
+  background: rgb(60, 60, 60);
+}
+
+.main {
+  margin-bottom: auto;
+}
+
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  min-height: 50px;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style: none;
+}
+
+.nav-link {
+  position: relative;
+  padding: 0 20px;
+  line-height: 50px;
+  text-decoration: none;
+  color: #ffb173;
+  transition: color 0.5s;
+}
+
+.nav-link:hover {
+  color: yellow;
+}
+
+.section {
+  width: 50%;
+  padding: 10px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #ffb173;
+}
+
+.section-title {
+  font-size: 20px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: rgb(60, 60, 60);
+}
+
+.profile {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  align-content: left;
+  text-align: left;
+  width: 100%;
+  padding: 50px 30px 35px;
+}
+
+.section-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.item {
+  position: relative;
+  margin: 0;
+  margin-bottom: 10px;
+  padding: 0;
+  padding-left: 30px;
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(60, 60, 60);
+  transition: color 0.5s;
+}
+
+.link:hover {
+  color: #ffb173;
+}
+
+.contacts {
+  font-style: italic;
+  display: inline-block;
+  color: #06276f;
+}
+
+.pre {
+  padding: 0;
+  margin: 0;
+}
+
+span {
+  background: none;
+  border-bottom: 1px solid #06276f;
+  color: #06276f;
+}
+
+.footer {
+  color: #ffb173;
+  background: rgb(60, 60, 60);
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+@media (max-width: 1440px) {
+  .container {
+    padding: 0 20;
+  }
+}
+
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+}
