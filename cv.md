@@ -6,7 +6,7 @@ Contact:
 
     email: anastacia.spy@gmail.com
     Skype: Anastacia.Spy
-    GitHub: [https://github.com/MelnAna]("MelnAna")
+    GitHub: [MelnAna](https://github.com/MelnAna)
 
 ### Technical Skills
 
